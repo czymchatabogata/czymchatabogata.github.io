@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Czym Chata Bogata
-email:
+email: czymchatabogatazzt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jesteśmy zespołem na olimpiadę Zwolnieni z Teorii. Naszym celem jest uprzyjemnienie podróżowania i przygotowanie wam gotowych wycieczek.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: "sunrise"
 search: true
+logo: "/assets/images/bio-photo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -58,7 +59,7 @@ plugins:
 author:
   name   : "Czym Chata Bogata"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Jesteśmy zespołem na olimpiadę Zwolnieni z Teorii. Naszym celem jest uprzyjemnienie podróżowania i przygotowanie wam gotowych wycieczek."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -78,6 +79,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/people/Czym-Chata-Bogata"  
+
+header:
+  image: "/assets/images/header.jpg"
 
 defaults:
   # _posts

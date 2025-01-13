@@ -1,8 +1,11 @@
 ---
-permalink: /about/
-title: "O nas"
-header:
-  image: "/assets/images/header-1600x500.jpg"
+title: "Witamy na Czym Chata Bogata!"
+date: 2025-01-13T15:34:30-02:00
+categories:
+  - blog
+tags:
+  - podróże
+  - update
 ---
 
 Cześć! Jesteśmy zespołem młodych ludzi, których łączy pasja do odkrywania uroków Dolnego Śląska i okolic. W ramach olimpiady **Zwolnieni z Teorii** tworzymy projekt społeczny **Czym Chata Bogata**. 
