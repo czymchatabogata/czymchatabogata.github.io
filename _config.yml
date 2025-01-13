@@ -18,14 +18,14 @@ email: czymchatabogatazzt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jesteśmy zespołem na olimpiadę Zwolnieni z Teorii. Naszym celem jest uprzyjemnienie podróżowania i przygotowanie wam gotowych wycieczek.
 twitter_username: username
-github_username: username
+github_username: czymchatabogata
 minimal_mistakes_skin: "sunrise"
 search: true
 logo: "/assets/images/bio-photo.jpg"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: czymchatabogata/minimal-mistakes@czymchatabogata-20230113
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
