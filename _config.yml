@@ -22,6 +22,7 @@ github_username: czymchatabogata
 minimal_mistakes_skin: "sunrise"
 search: true
 logo: "/assets/images/bio-photo.jpg"
+locale: "pl-PL"
 
 # Build settings
 markdown: kramdown
