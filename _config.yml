@@ -99,8 +99,12 @@ footer:
       icon: "fab fa-fw fa-tiktok"
       url: "https://www.tiktok.com/@czymchatabogatazzt"        
 
-header:
-  image: "/assets/images/header.jpg"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-9C44DB1LBH"
+    anonymize_ip: false # default
+
 
 defaults:
   # _posts
