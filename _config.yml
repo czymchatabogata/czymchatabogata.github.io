@@ -91,6 +91,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        image: "/assets/images/header-1600x500.jpg"      
       read_time: true
       comments: true
       share: true
@@ -102,6 +104,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        image: "/assets/images/header-1600x500.jpg"
 
 category_archive:
   type: liquid

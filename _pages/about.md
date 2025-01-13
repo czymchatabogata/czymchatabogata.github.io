@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 title: "O nas"
-header:
-  image: "/assets/images/header-1600x500.jpg"
 ---
 
 Cześć! Jesteśmy zespołem młodych ludzi, których łączy pasja do odkrywania uroków Dolnego Śląska i okolic. W ramach olimpiady **Zwolnieni z Teorii** tworzymy projekt społeczny **Czym Chata Bogata**. 
