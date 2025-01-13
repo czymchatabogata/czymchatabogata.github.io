@@ -16,7 +16,7 @@
 title: Czym Chata Bogata
 email: czymchatabogatazzt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jesteśmy zespołem na olimpiadę Zwolnieni z Teorii. Naszym celem jest uprzyjemnienie podróżowania i przygotowanie wam gotowych wycieczek.
+  Jesteśmy zespołem na olimpiadę Zwolnieni z Teorii. Naszym celem jest uprzyjemnienie podróżowania i przygotowanie wam planów wycieczek.
 twitter_username: username
 github_username: czymchatabogata
 minimal_mistakes_skin: "sunrise"
@@ -59,26 +59,44 @@ plugins:
 author:
   name   : "Czym Chata Bogata"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Jesteśmy zespołem na olimpiadę Zwolnieni z Teorii. Naszym celem jest uprzyjemnienie podróżowania i przygotowanie wam gotowych wycieczek."
+  bio    : "Jesteśmy zespołem na olimpiadę Zwolnieni z Teorii. Naszym celem jest uprzyjemnienie podróżowania i przygotowanie wam planów wycieczek."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://czymchatabogata.pl"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://czymchatabogata.pl"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:czymchatabogatazzt@gmail.com"      
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/czymchatabogatazzt/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/people/Czym-Chata-Bogata"      
+      url: "https://www.facebook.com/people/Czym-Chata-Bogata/61569076540376/"  
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@CzymChataBogataZZT"    
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@czymchatabogatazzt"              
 
 footer:
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:czymchatabogatazzt@gmail.com"    
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/czymchatabogatazzt/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/people/Czym-Chata-Bogata"  
+      url: "https://www.facebook.com/people/Czym-Chata-Bogata/61569076540376/" 
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@CzymChataBogataZZT"    
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@czymchatabogatazzt"        
 
 header:
   image: "/assets/images/header.jpg"
