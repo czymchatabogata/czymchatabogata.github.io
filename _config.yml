@@ -34,7 +34,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-google_site_verification: googlec5392febdaabbbd4.html
+google_site_verification: Tl7NtRqbYBOq-m4Y2yMEkQI3ep7m709S_s0ArPI-deQ
 
 include:
   - _pages
