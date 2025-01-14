@@ -102,7 +102,7 @@ footer:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-Y4EGGBPQ8Z"
+    tracking_id: "G-TXK6QJ5HB3"
     anonymize_ip: false # default
 
 
