@@ -3,8 +3,6 @@ layout: single
 permalink: /
 hidden: true
 author_profile: true
-header:
-  image: /assets/images/header-1600x400.jpg 
 ---
 
 Witajcie na stronie projektu **Czym Chata Bogata**!
