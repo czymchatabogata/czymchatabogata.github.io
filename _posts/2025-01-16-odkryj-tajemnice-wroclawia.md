@@ -7,6 +7,7 @@ tags:
   - podróże
   - wrocław
   - legendy
+excerpt: Zapraszamy Was na niezwykłą podróż po Wrocławiu, pełną tajemniczych historii i legend, które ożywają na każdym kroku.
 ---
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1QlcAt0IDRn6cz68FtWxBojJtpgGXCeY&amp;hl=en&amp;ehbc=2E312F" width="950" height="480" style="
