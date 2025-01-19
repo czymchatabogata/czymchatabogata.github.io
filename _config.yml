@@ -118,7 +118,8 @@ defaults:
       author_profile: false
       classes: wide
       header:
-        image: "/assets/images/header-1600x400.jpg"      
+        image: "/assets/images/header-1600x400.jpg" 
+        og_image: "/assets/images/bio-photo.jpg"
       read_time: true
       comments: true
       share: true
@@ -133,6 +134,7 @@ defaults:
       classes: wide
       header:
         image: "/assets/images/header-1600x400.jpg"
+        og_image: "/assets/images/bio-photo.jpg"
   
 
 category_archive:
