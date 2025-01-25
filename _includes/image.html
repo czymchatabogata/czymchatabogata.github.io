@@ -1,0 +1,36 @@
+<!-- _includes/image.html -->
+<div class="c-photo">
+    <figure class="c-photo__figure">
+        {% if include.url %}
+        <a href="{{ include.url }}"  style="position: relative;" target="_blank" class="c-photo__url">
+        {% endif %}        
+
+        <picture  class="c-photo__picture">
+            <img
+            {% if include.srcabs %}
+                src="{{ include.srcabs }}"
+            {% else %}
+                src="{{ site.baseurl }}/assets/images/{{ include.src }}"
+            {% endif %}
+            {% if include.alt %}
+                alt="{{ include.alt }}"
+            {% endif %}
+            {% if include.width %}
+                width="840" 
+            {% endif %}
+            {% if include.height %}
+                height="480"
+            {% endif %}>
+        </picture>
+        {% if include.author %}
+            <span class="c-photo__author">{{ include.author }}</span>
+        {% endif %}        
+
+        {% if include.url %}
+        </a>
+        {% endif %}
+        {% if include.caption %}
+            <figcaption class="c-photo__caption">{{ include.caption }}</figcaption>
+        {% endif %}        
+    </figure>
+</div>        
