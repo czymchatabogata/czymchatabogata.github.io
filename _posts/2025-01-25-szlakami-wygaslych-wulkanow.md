@@ -40,7 +40,7 @@ Krótkim spacerkiem znaleźliśmy się już w samym sercu, czyli Rynku. Kamienic
 
 Ratusz
 ---
-A na Rynku, Ratusz! Oryginalna A na Rynku, Ratusz! Oryginalna budowla była postawiona w XVI wieku. W wyniku pożaru pozostała z niej tylko wieża, ale w XIX wieku została postawiona na nowo. Co ciekawe, w środku ratusza znajduje się “sala rajców”, w której można oglądać największe witraże w budowli świeckiej na Dolnym Śląsku!
+A na Rynku, Ratusz! Oryginalna budowla była postawiona w XVI wieku. W wyniku pożaru pozostała z niej tylko wieża, ale w XIX wieku została postawiona na nowo. Co ciekawe, w środku ratusza znajduje się “sala rajców”, w której można oglądać największe witraże w budowli świeckiej na Dolnym Śląsku!
 
 Sale można zwiedzać (do czego bardzo zachęcamy).
 
