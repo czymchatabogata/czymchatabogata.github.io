@@ -26,7 +26,7 @@ Wycieczkę rozpoczęliśmy od zwiedzania Jawora. W tym niewielkim mieście leż�
 Zamek Piastowski
 ---
 
-Wycieczkę rozpoczęliśmy od zwiedzania Jawora. W tym niewielkim mieście leżącym niedaleko Legnicy można odkryć wiele interesujących zabytków. Niepozornie wyglądające miejsce okazuje się być średniowieczną osadą i domem dla wielu dobrze zachowanych obiektów (nawet tych na liście UNESCO)!
+Pierwszy zabytek, od którego zaczęliśmy to Zamek Piastowski. Wybudowany w XIII wieku długo służył jako siedziba znanych elit. Od XVIII aż do XX wieku znajdowało się tam więzienie, co upamiętnia tabliczka na dziedzińcu. Aktualnie jest siedzibą wielu różnych organizacji. Teraz można tam zwiedzać cele więzienne oraz wieżę zamku, w której lokalni artyści pokazują swoje dzieła. Sam zamek wygląda na zaniedbany, jednak dalej góruje nad miastem.
 
 **Zwiedzanie zamku jest możliwe, od maja do października!**
 
@@ -50,7 +50,7 @@ Sale można zwiedzać (do czego bardzo zachęcamy).
 
 Kościół Pokoju
 ---
-Ostatnim obiektem, do którego Ostatnim obiektem, do którego dotarliśmy, a zarazem ten, z którego Jawor jest najbardziej znany, to ewangelicki Kościół Pokoju. Zbudowany został w XVII wieku, a jego wystrój pięknie przedstawia historię Europy w tych czasach. Pomimo swojego rozmiaru, jego konstrukcja jest całkowicie oparta na drewnie! Za znaczenie dla kultury oraz innowacyjną konstrukcję został wpisany na Listę Światowego Dziedzictwa UNESCO. Aktualnie odbywają się tam Jaworskie Koncerty Pokoju, gdzie można usłyszeć różne utwory światowych artystów.
+Ostatnim obiektem, do którego dotarliśmy, a zarazem ten, z którego Jawor jest najbardziej znany, to ewangelicki Kościół Pokoju. Zbudowany został w XVII wieku, a jego wystrój pięknie przedstawia historię Europy w tych czasach. Pomimo swojego rozmiaru, jego konstrukcja jest całkowicie oparta na drewnie! Za znaczenie dla kultury oraz innowacyjną konstrukcję został wpisany na Listę Światowego Dziedzictwa UNESCO. Aktualnie odbywają się tam Jaworskie Koncerty Pokoju, gdzie można usłyszeć różne utwory światowych artystów.
 
 **Kościół jest udostępniony do zwiedzania.**
 
