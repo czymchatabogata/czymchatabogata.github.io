@@ -8,4 +8,4 @@ classes: wide
 author_profile: true
 ---
 
-Tu pojawią się opisy wycieczek
+
