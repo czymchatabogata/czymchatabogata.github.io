@@ -3,7 +3,7 @@ title: Wycieczki
 layout: category
 taxonomy: wycieczki
 permalink: /trips/
-#entries_layout: grid
+entries_layout: grid
 classes: wide
 author_profile: true
 ---

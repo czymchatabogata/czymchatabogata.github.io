@@ -1,7 +1,10 @@
 ---
-layout: single
+layout: category
+taxonomy: wycieczki
 permalink: /
 hidden: true
+entries_layout: grid
+classes: wide
 author_profile: true
 ---
 

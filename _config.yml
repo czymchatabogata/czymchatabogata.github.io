@@ -121,6 +121,7 @@ defaults:
       classes: wide
       header:
         image: "/assets/images/header-1600x400.jpg" 
+        teaser: "/assets/images/bio-photo.jpg"
         og_image: "/assets/images/bio-photo.jpg"
       read_time: false
       comments: true

@@ -10,6 +10,8 @@ tags:
   - Dolny Śląsk
   - Jawor
 excerpt: Wyrusz z nami szlakami Wygasłych Wulkanów i odkryj niezwykłe krajobrazy Dolnego Śląska!
+header:
+  teaser: assets/images/2025-01-25/Mysliborz_6.jpeg
 ---
 
 
