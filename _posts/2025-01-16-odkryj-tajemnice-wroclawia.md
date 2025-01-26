@@ -22,7 +22,7 @@ Kościół Marii Magdaleny i Mostek Pokutnic
 {% include image.html
     srcabs="https://upload.wikimedia.org/wikipedia/commons/8/89/Wroclaw_MariaMagdalenaMostekCzarownic.jpg"
     url="https://commons.wikimedia.org/wiki/File:Wroclaw_MariaMagdalenaMostekCzarownic.jpg"
-    author="WikiMedia"
+    author="Public Domain"
     alt="Mostek Pokutnic"
 %}
 
