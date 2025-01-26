@@ -122,7 +122,7 @@ defaults:
       header:
         image: "/assets/images/header-1600x400.jpg" 
         og_image: "/assets/images/bio-photo.jpg"
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
@@ -134,6 +134,7 @@ defaults:
       layout: single
       author_profile: false
       classes: wide
+      read_time: false
       header:
         image: "/assets/images/header-1600x400.jpg"
         og_image: "/assets/images/bio-photo.jpg"
