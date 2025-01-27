@@ -181,7 +181,7 @@ Rataj i Małe Organy Myśliborskie
     alt="Myślibórz"
 %}
 
-Gdy przechodziliśmy w stronę Rataja, Później skierowaliśmy się w stronę Rataja. Po drodze można było natrafić na tabliczki opowiadające o średniowiecznym grodzisku i jego pozostałościach, które się tam niegdyś znajdowały. Sam Rataj to powulkaniczne wzniesienie, a u jego podnóży znajdują się Małe Organy Myśliborskie. Jest to odsłonięty fragment czopu wulkanicznego. Na własne oczy można zobaczyć działalność wulkaniczną na Dolnym Śląsku oraz to, dlaczego to miejsce nazywane jest krainą “wygasłych wulkanów”.
+Później skierowaliśmy się w stronę Rataja. Po drodze można było natrafić na tabliczki opowiadające o średniowiecznym grodzisku i jego pozostałościach, które się tam niegdyś znajdowały. Sam Rataj to powulkaniczne wzniesienie, a u jego podnóży znajdują się Małe Organy Myśliborskie. Jest to odsłonięty fragment czopu wulkanicznego. Na własne oczy można zobaczyć działalność wulkaniczną na Dolnym Śląsku oraz to, dlaczego to miejsce nazywane jest krainą “wygasłych wulkanów”.
 
 Bazaltowa Góra
 ---
