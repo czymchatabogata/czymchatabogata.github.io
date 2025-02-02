@@ -16,9 +16,10 @@ header:
   teaser: assets/images/2025-02-02/Zamek_Bolczow1.jpg
 ---
 
-<iframe style="border:none;width: -webkit-fill-available;" src="https://pl.frame.mapy.cz/s/lovesupesa" width="950" height="500" frameborder="0"></iframe>
 
 Przychodzimy do was z kolejną propozycją wycieczki po Dolnym Śląsku! Tym razem zmierzymy się z Rudawami Janowickimi.
+
+<iframe style="border:none;width: -webkit-fill-available;" src="https://pl.frame.mapy.cz/s/lovesupesa" width="950" height="500" frameborder="0"></iframe>
 
 Trzcińsko
 ---
