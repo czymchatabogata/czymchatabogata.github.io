@@ -174,6 +174,8 @@ gallery8:
 
 Zabierzemy was w podróż po **Bolesławcu**, czyli mieście znanym najbardziej ze swoich pięknych wyrobów ceramicznych i pokażemy wam jego najpiękniejsze zakamarki.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1e5NA460cucpe1FssJG3y50XIoNz9A8E&hl=en&ehbc=2E312F" width="640" height="550" style="width: -webkit-fill-available;"></iframe>
+
 Zakochane latarnie oraz Centrum Wiedzy
 ---
 
