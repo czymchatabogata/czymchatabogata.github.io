@@ -7,7 +7,6 @@ tags:
   - podróże
   - Ceramika Bolesławiecka
   - Bolesławiec
-  - rizz
 excerpt: Zabierzemy was w podróż po Bolesławcu.
 header:
   teaser: assets/images/2025-02-11/Boleslawiec-16.jpeg
