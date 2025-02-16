@@ -1,5 +1,4 @@
 ---
-title: Czym Chata Bogata
 layout: category
 taxonomy: wycieczki
 permalink: /
