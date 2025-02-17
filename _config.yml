@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Czym Chata Bogata
+title: Wycieczki - Dolny Śląsk - Karkonosze - Góry Kaczawskie - Wrocław
+masthead_title: Czym Chata Bogata
 email: czymchatabogatazzt@gmail.com
 url: "https://chatabogata.turystyka.pl"
 description: >- # this means to ignore newlines until "baseurl:"
