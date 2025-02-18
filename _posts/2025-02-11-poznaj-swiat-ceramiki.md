@@ -26,16 +26,16 @@ gallery1:
 gallery2:
   - url: assets/images/2025-02-11/Boleslawiec-05.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-05.jpeg
-    alt: "Bolesławiec - Park"
-    title: "Bolesławiec - Park"   
+    alt: "Bolesławiec - Baszta"
+    title: "Bolesławiec - Baszta"   
   - url: assets/images/2025-02-11/Boleslawiec-06.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-06.jpeg
     alt: "Bolesławiec - Park"
     title: "Bolesławiec - Park"   
   - url: assets/images/2025-02-11/Boleslawiec-07.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-07.jpeg
-    alt: "Bolesławiec - Park"
-    title: "Bolesławiec - Park"   
+    alt: "Bolesławiec - Mury obronne"
+    title: "Bolesławiec - Mury obronne"   
   - url: assets/images/2025-02-11/Boleslawiec-08.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-08.jpeg
     alt: "Bolesławiec - Park"
@@ -50,8 +50,8 @@ gallery2:
     title: "Bolesławiec - Park"  
   - url: assets/images/2025-02-11/Boleslawiec-04.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-04.jpeg
-    alt: "Bolesławiec - Park"
-    title: "Bolesławiec - Park"     
+    alt: "Bolesławiec - Pomnik Kutuzowa"
+    title: "Bolesławiec - Pomnik Kutuzowa"     
 gallery3:
   - url: assets/images/2025-02-11/Boleslawiec-11.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-11.jpeg
@@ -72,12 +72,12 @@ gallery3:
 gallery4:
   - url: assets/images/2025-02-11/Boleslawiec-17.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-17.jpeg
-    alt: "Bolesławiec"
-    title: "Bolesławiec"     
+    alt: "Bolesławiec - Termy"
+    title: "Bolesławiec - Termy"     
   - url: assets/images/2025-02-11/Boleslawiec-18.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-18.jpeg
-    alt: "Bolesławiec"
-    title: "Bolesławiec"   
+    alt: "Bolesławiec - Termy"
+    title: "Bolesławiec - Termy"   
   - url: assets/images/2025-02-11/Boleslawiec-19.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-19.jpeg
     alt: "Bolesławiec"
