@@ -80,16 +80,16 @@ gallery4:
     title: "Bolesławiec - Termy"   
   - url: assets/images/2025-02-11/Boleslawiec-19.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-19.jpeg
-    alt: "Bolesławiec"
-    title: "Bolesławiec"                               
+    alt: "Bolesławiec - Sąd Rejonowy"
+    title: "Bolesławiec - Sąd Rejonowy"                               
   - url: assets/images/2025-02-11/Boleslawiec-20.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-20.jpeg
-    alt: "Bolesławiec"
-    title: "Bolesławiec"   
+    alt: "Bolesławiec - Urząd"
+    title: "Bolesławiec - Urząd"   
   - url: assets/images/2025-02-11/Boleslawiec-21.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-21.jpeg
-    alt: "Bolesławiec"
-    title: "Bolesławiec"   
+    alt: "Bolesławiec - Teatr Stary"
+    title: "Bolesławiec - Teatr Stary"   
 gallery5:
   - url: assets/images/2025-02-11/Boleslawiec-22.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-22.jpeg
