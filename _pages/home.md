@@ -6,6 +6,7 @@ hidden: true
 entries_layout: grid
 classes: wide
 author_profile: true
+show_collection: true
 ---
 
 Witajcie na stronie projektu **Czym Chata Bogata**!
