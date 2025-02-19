@@ -6,8 +6,6 @@ hidden: true
 entries_layout: grid
 classes: wide
 author_profile: true
-sidebar:
-  - text: "<div style="position: relative; width: 100%; height: 400px; overflow: hidden;"><iframe style="position: absolute; top:0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://zrzutka.pl/bwrgsk/widget/13" frameborder="0" scrolling="no"></iframe></div>"
 ---
 
 Witajcie na stronie projektu **Czym Chata Bogata**!
