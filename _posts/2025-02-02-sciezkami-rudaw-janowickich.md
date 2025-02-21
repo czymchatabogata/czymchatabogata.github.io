@@ -10,7 +10,6 @@ tags:
   - Dolny Śląsk
   - Bolczów
   - Szwajcarka
-  - rizz
 excerpt: Wyrusz na przygodę skalnymi ścieżkami Rudaw Janowickich i odkryj ich niezwykłe zakątki!
 header:
   teaser: assets/images/2025-02-02/Zamek_Bolczow1.jpg
