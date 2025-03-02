@@ -133,4 +133,4 @@ Miłośnicy aktywnego wypoczynku powinni odwiedzić **Słoneczną Polanę** w Sz
 Inne atrakcje
 ---
 
-Dla ambitniejszych – z dworzyska wiedzie czarny szlak na górę Chełmiec. Wyprawa trwa około 3h, więc warto się zaopatrzyć w odpowiednie obuwie.
+Dla ambitniejszych – z dworzyska wiedzie czarny szlak na szczyt Chełmiec. Wyprawa trwa około 3h, więc warto się zaopatrzyć w odpowiednie obuwie.
