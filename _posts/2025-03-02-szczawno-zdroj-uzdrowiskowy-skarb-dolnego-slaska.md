@@ -70,8 +70,8 @@ gallery3:
     image_path: assets/images/2025-03-02/Szczawno-Zdroj-11.jpeg
     alt: "Szczawno Zdrój - Park zdrojowy"
     title: "Szczawno Zdrój - Park zdrojowy" 
-  - url: https://upload.wikimedia.org/wikipedia/commons/1/14/Szczawno-Zdr%C3%B3j_brama_Parku_Zdrojowego_25.07.2011_p.jpg
-    image_path: https://upload.wikimedia.org/wikipedia/commons/1/14/Szczawno-Zdr%C3%B3j_brama_Parku_Zdrojowego_25.07.2011_p.jpg
+  - url: assets/images/2025-03-02/Szczawno-Zdroj-13.jpeg
+    image_path: assets/images/2025-03-02/Szczawno-Zdroj-13.jpeg
     alt: "Szczawno Zdrój - Park zdrojowy"
     title: "Szczawno Zdrój - Park zdrojowy" 
 gallery4:
