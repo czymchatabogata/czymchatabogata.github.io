@@ -128,6 +128,8 @@ Muzeum Bombki
 
 Pierwszą atrakcją, którą odwiedzimy wysiadając z stacji PKP Milicz będzie **Muzeum Bombki**. W środku znajdziemy ogromną kolekcję ponad kilku tysięcy różnorodnych szklanych ozdób produkowanych w fabryce znajdującej się dawniej na miejscu muzeum. Są to egzemplarze własnoręcznie malowane i wydmuchiwane. W środku dowiemy się też więcej o dawnej fabryce i technice wyrabiania bombek. Oprócz tego można skorzystać z gier interaktywnych. Druga część wystawy poświęcona jest natomiast **Bolesławowi Zajiczkowi**, czyli sportowcu pochodzącemu z Milicza, który pomimo braku rąk nie stracił pasji do sportu. W środku obiektu znajduje się też kawiarnia, z której śmiało można korzystać!
 
+Strona domowa muzeum: [https://muzeumbombki.com.pl/](https://muzeumbombki.com.pl/){:target="_blank"}
+
 Kościół pw. św. Andrzeja Boboli
 ---
 
