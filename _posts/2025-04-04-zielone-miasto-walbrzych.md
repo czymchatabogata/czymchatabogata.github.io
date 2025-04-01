@@ -194,10 +194,10 @@ Bilety: [https://www.bilety.ksiaz.walbrzych.pl/](https://www.bilety.ksiaz.walbrz
 Dojazd
 ---
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d417112.8628553908!2d16.1202552738605!3d50.9658272322616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x470fc26564155555%3A0x479e05b579c70934!2zV3JvY8WCYXcgR8WCw7N3bnkgxZp3acSZdG93aXQsIE1hcnN6YcWCa2EgSsOzemVmYSBQacWCc3Vkc2tpZWdvLCBXcm9jxYJhdw!3m2!1d51.098079999999996!2d17.03709!4m5!1s0x470e56b81696c7fd%3A0x24dbb63bd8ceaacd!2sWa%C5%82brzych%20Centrum%2C%2058-300%20Wa%C5%82brzych!3m2!1d50.7742898!2d16.2700974!5e0!3m2!1spl!2spl!4v1743540999779!5m2!1spl!2spl" width="640" height="550" style="border:none;width: -webkit-fill-available;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-Pociąg
+**Pociąg**
 Do Wałbrzycha kursują pociągi na trasie Wrocław - Jelenia Góra / Szklarska Poręba oraz Wrocław - Wałbrzych - Kudowa-Zdrój. Podróż z Wrocławia trwa około 1,5 godziny, a pociągi kursują w interwałach 30 minut - 1 godzina. To wygodna i malownicza opcja, pozwalająca podziwiać widoki Sudetów jeszcze przed dotarciem na miejsce. Rekomendujemy tę formę transportu, szczególnie jeśli planujecie zwiedzanie pieszo. 🚆🏔️
 
-Samochód
+**Samochód**
 Dojazd autem do Wałbrzycha jest szybki i wygodny – trasą DK35 lub A4 i DK5 podróż zajmuje około godziny. W mieście znajduje się wiele parkingów. Auto ułatwia dojazd do Gór Wałbrzyskich oraz Zamku książ, miejsca te są oddalone od centrum.
 
 
