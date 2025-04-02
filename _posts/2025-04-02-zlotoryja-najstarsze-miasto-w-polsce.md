@@ -189,6 +189,8 @@ gallery12:
 
 Tym razem wybierzemy się w podróż po Złotoryi, które szczyci się mianem najstarszego miasta w Polsce. Miasto otrzymało prawa miejskie w 1211 roku. Złotoryja słynie ze swojej bogatej średniowiecznej historii oraz z wydobywania złota!
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1i-NW3eLuepbLfWeRlWDwm1GIWti6aYQ&ehbc=2E312F" width="640" height="550" style="width: -webkit-fill-available;"></iframe>
+
 {% include gallery id="gallery0" layout="" %}
 
 Kopalnia złota „Aurelia”
