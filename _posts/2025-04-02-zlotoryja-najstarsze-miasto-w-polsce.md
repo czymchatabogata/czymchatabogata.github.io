@@ -10,6 +10,7 @@ tags:
 excerpt: Złotoryja to miasto, które trzeba zobaczyć! Spacerując po urokliwej starówce, poczujesz klimat średniowiecza, a widok z Baszty Kowalskiej zachwyci każdego. Wisienką na torcie jest wizyta w dawnym kamieniołomie – surowe skały, niezwykłe formacje i historia zapisane w kamieniu czekają na odkrycie. Gotowi na przygodę?
 header:
   teaser: assets/images/2025-04-02/Zlotoryja-00.jpeg
+  og_image: assets/images/2025-04-02/Zlotoryja-00.jpeg
 gallery0:
   - url: assets/images/2025-04-02/Zlotoryja-00.jpeg
     image_path: assets/images/2025-04-02/Zlotoryja-00.jpeg
@@ -211,7 +212,7 @@ Następnym miejscem, do którego się udamy (i gdzie trzeba się troszkę wspią
 Kościół pw. św. Jadwigi Śląskiej
 ---
 
-{% include gallery id="gallery4" %}
+{% include gallery id="gallery3" %}
 
 Po zejściu z Góry Mieszczańskiej, skierujemy się w stronę centrum samego miasta. Pierwszym przystankiem będzie **Kościół pod wezwaniem św. Jadwigi Śląskiej**. Jest on też jednocześnie siedzibą **Franciszkanów**. Pierwotnie klasztor został zbudowany w 1240 roku, lecz niestety został zniszczony w 1427 roku. Obecna budowla pochodzi z 1709 roku. Jest to przykład barokowego kościoła, lecz zbudowanego na fundamencie gotyckim. Na zewnątrz znajduję się ciekawa kapliczka pochodząca z XV wieku, a wokół kompleksu znajduję się część starych murów miejskich.
 
