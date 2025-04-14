@@ -78,8 +78,8 @@ Całość łączy edukację z rozrywką, dzięki czemu Hydropolis to miejsce ide
 
 Hydropolis otwarte jest w:
 
-- PN - PT: 09:00 - 18:00(ostatnie wejście o 17:00)
-- WEEKEND: 10:00 - 20:00(ostatnie wejście o 19:00)
+- PN - PT: 09:00 - 18:00 (ostatnie wejście o 17:00)
+- WEEKEND: 10:00 - 20:00 (ostatnie wejście o 19:00)
 
 Cennik: [https://bilety.hydropolis.pl/](https://bilety.hydropolis.pl/){:target="_blank"} 
 
