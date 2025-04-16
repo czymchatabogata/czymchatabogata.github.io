@@ -17,6 +17,8 @@ Chcemy, żeby każda wyprawa była przygodą, a jednocześnie łatwa w organizac
 
 Obserwujcie naszą stronę, aby być na bieżąco z nowościami, inspiracjami i wyjątkowymi pomysłami na spędzenie czasu na Dolnym Śląsku!
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-aMpUgvJgb8?si=M45FCa_w8ExvtsGR" frameborder="0" allowfullscreen></iframe>
+
 Gotowi na wspólne odkrywanie? Dołączcie do nas i przekonajcie się, czym Dolny Śląsk naprawdę bogaty!
 
 #CzymChataBogata #DolnyŚląsk #Podróże
