@@ -58,7 +58,15 @@ gallery6:
     image_path: https://upload.wikimedia.org/wikipedia/commons/b/b3/Wroclaw_zajezdnia_Grabiszynska_4.jpg
     alt: "Wrocław - Centrum Historii Zajezdnia"
     title: "Wrocław - Centrum Historii Zajezdnia"      
-    
+gallery7:
+  - url: assets/images/2025-04-14/Wroclaw-01.jpeg
+    image_path: assets/images/2025-04-14/Wroclaw-01.jpeg
+    alt: "Wrocław - Biblioteka Uniwersytecka"
+    title: "Wrocław - Biblioteka Uniwersytecka"  
+  - url: assets/images/2025-04-14/Wroclaw-02.jpeg
+    image_path: assets/images/2025-04-14/Wroclaw-02.jpeg
+    alt: "Wrocław - Biblioteka Uniwersytecka"
+    title: "Wrocław - Biblioteka Uniwersytecka"           
     
 ---
 
@@ -134,6 +142,8 @@ Wszystkie informacje dotyczące godzin otwarcia oraz cen biletów tutaj: [https:
 
 Biblioteka Uniwersytecka we Wrocławiu – skarbnica wiedzy
 ---
+
+{% include gallery id="gallery7" layout="half" %}
 
 Na koniec warto wspomnieć o **Bibliotece Uniwersyteckiej we Wrocławiu**, mieszczącej się przy ul. Joliot-Curie, w pięknej okolicy nad Odrą. Nowoczesny i funkcjonalny budynek BUWr wychodzi naprzeciw oczekiwaniom użytkowników, oferując przestronne hole, czytelnie, miejsca do pracy grupowej i indywidualnej oraz dostęp do zasobów elektronicznych. Czy wiedzieliście, że w Bibliotece Uniwersyteckiej pracuje prawie **200 bibliotekarzy**? Ktoś przecież musi zająć się obsługą ponad **2 milionów** voluminów wydawnictw nowych oraz zbiorami specjalnymi liczącymi około **500 tysięcy voluminów**!
 
