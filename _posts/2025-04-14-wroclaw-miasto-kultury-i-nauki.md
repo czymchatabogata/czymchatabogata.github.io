@@ -145,11 +145,7 @@ Biblioteka Uniwersytecka we Wrocławiu – skarbnica wiedzy
 
 {% include gallery id="gallery7" layout="half" %}
 
-Na koniec warto wspomnieć o **Bibliotece Uniwersyteckiej we Wrocławiu**, mieszczącej się przy ul. Joliot-Curie, w pięknej okolicy nad Odrą. Nowoczesny i funkcjonalny budynek BUWr wychodzi naprzeciw oczekiwaniom użytkowników, oferując przestronne hole, czytelnie, miejsca do pracy grupowej i indywidualnej oraz dostęp do zasobów elektronicznych. Czy wiedzieliście, że w Bibliotece Uniwersyteckiej pracuje prawie **200 bibliotekarzy**? Ktoś przecież musi zająć się obsługą ponad **2 milionów** voluminów wydawnictw nowych oraz zbiorami specjalnymi liczącymi około **500 tysięcy voluminów**!
-
-W Bibliotece nie tylko gromadzi się i udostępnia zbiory, ale także przechowuje bogate kolekcje rękopisów oraz starych druków, konserwuje, oprawia, przygotowuje dzieła do ekspozycji krajowych i zagranicznych oraz dygitalizuje. Biblioteka posiada również cenne muzykalia, kartografikę oraz zbiory graficzne, z których wiele jest prezentowanych w **Bibliotece Cyfrowej UWr**.
-
-Strzec wspaniałych zbiorów BUWr pomaga bibliotekarzom **Krasnal Cymelisz**. Wielką miłością Cymeliusza są bowiem cymelia, czyli najcenniejsze zbiory biblioteczne o szczególnej wartości. To właśnie od nich pochodzi imię sympatycznego, choć tajemniczego, krasnala. Bibliotekarze zaś podpowiadają, że dotknięcie czapeczki Cymeliusza przynosi szczęście…
+Na koniec warto wspomnieć o Bibliotece Uniwersyteckiej we Wrocławiu, położonej nad Odrą przy ul. Joliot-Curie, to nowoczesna przestrzeń z czytelniami, miejscami do pracy i dostępem do zbiorów elektronicznych. Pracuje tu prawie 200 bibliotekarzy, którzy opiekują się ponad 2 milionami książek i 500 tysiącami zbiorów specjalnych. BUWr przechowuje też rękopisy, stare druki, muzykalia i grafikę, które można oglądać m.in. w Bibliotece Cyfrowej UWr. Opiekunem zbiorów jest Krasnal Cymelisz, którego imię pochodzi od cymeliów – najcenniejszych obiektów bibliotecznych. Dotknięcie jego czapeczki ma ponoć przynosić szczęście!
 
 Zapraszamy do odkrywania tajemnic wrocławskiej biblioteki!
 
