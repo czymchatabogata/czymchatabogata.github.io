@@ -121,7 +121,7 @@ Trasa jest niedługa i bardzo przystępna. Jednocześnie można zwiedzić cuda w
 
 Dojazd
 ---
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d42485.94716228724!2d17.00632700624493!3d51.08878294676714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x470fc26564155555%3A0x479e05b579c70934!2zV3JvY8WCYXcgR8WCw7N3bnkgxZp3acSZdG93aXQsIE1hcnN6YcWCa2EgSsOzemVmYSBQacWCc3Vkc2tpZWdvLCBXcm9jxYJhdw!3m2!1d51.098079999999996!2d17.03709!4m5!1s0x470ee3da8165a95b%3A0xc74037defb227442!2sTrzci%C5%84sko%2C%2058-520!3m2!1d50.883440099999994!2d15.871671899999999!5e0!3m2!1spl!2spl!4v1738536847113!5m2!1spl!2spl" width="640" height="550" style="border:none;width: -webkit-fill-available;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d42485.94716228724!2d17.00632700624493!3d51.08878294676714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x470fc26564155555%3A0x479e05b579c70934!2zV3JvY8WCYXcgR8WCw7N3bnkgxZp3acSZdG93aXQsIE1hcnN6YcWCa2EgSsOzemVmYSBQacWCc3Vkc2tpZWdvLCBXcm9jxYJhdw!3m2!1d51.098079999999996!2d17.03709!4m5!1s0x470ee3da8165a95b%3A0xc74037defb227442!2sTrzci%C5%84sko%2C%2058-520!3m2!1d50.883440099999994!2d15.871671899999999!5e0!3m2!1spl!2spl!4v1738536847113!5m2!1spl!2spl" width="640" height="550" style="border:none;width: inherit;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
   **Pociąg**  

@@ -20,7 +20,7 @@ Cześć! Ostatnio udało nam się pojechać na naszą pierwszą wycieczkę. Wiel
 Jawor
 ===
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1VgVPUbBkF1QZIyCjG2-McOBjOHxYk1w&hl=en&ehbc=2E312F" width="640" height="550" style="width: -webkit-fill-available;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1VgVPUbBkF1QZIyCjG2-McOBjOHxYk1w&hl=en&ehbc=2E312F" width="640" height="550" style="width: inherit;"></iframe>
 
 Wycieczkę rozpoczęliśmy od zwiedzania Jawora. W tym niewielkim mieście leżącym niedaleko Legnicy można odkryć wiele interesujących zabytków. Niepozornie wyglądające miejsce okazuje się być średniowieczną osadą i domem dla wielu dobrze zachowanych obiektów (nawet tych na liście UNESCO)!
 

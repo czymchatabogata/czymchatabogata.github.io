@@ -173,7 +173,7 @@ gallery8:
 
 Zabierzemy was w podróż po **Bolesławcu**, czyli mieście znanym najbardziej ze swoich pięknych wyrobów ceramicznych i pokażemy wam jego najpiękniejsze zakamarki.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1e5NA460cucpe1FssJG3y50XIoNz9A8E&hl=en&ehbc=2E312F" width="640" height="550" style="width: -webkit-fill-available;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1e5NA460cucpe1FssJG3y50XIoNz9A8E&hl=en&ehbc=2E312F" width="640" height="550" style="width: inherit;"></iframe>
 
 Zakochane latarnie oraz Centrum Wiedzy
 ---
@@ -250,7 +250,7 @@ Oto nasza propozycja na spędzenie czasu w Bolesławcu! Oczywiście w mieście z
 Dojazd
 ---
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1281528.251423609!2d14.974719503098072!3d51.14563018765212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x470fe9c2d4b58abf%3A0xb70956aec205e0f5!2sWroc%C5%82aw%2C%20Poland!3m2!1d51.1092948!2d17.0386019!4m5!1s0x470f343a8de8439b%3A0x6b7f024cd72be782!2sBoles%C5%82awiec!3m2!1d51.2659898!2d15.568848099999999!5e0!3m2!1sen!2spl!4v1739388294092!5m2!1sen!2spl" width="640" height="550" style="border:none;width: -webkit-fill-available;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1281528.251423609!2d14.974719503098072!3d51.14563018765212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x470fe9c2d4b58abf%3A0xb70956aec205e0f5!2sWroc%C5%82aw%2C%20Poland!3m2!1d51.1092948!2d17.0386019!4m5!1s0x470f343a8de8439b%3A0x6b7f024cd72be782!2sBoles%C5%82awiec!3m2!1d51.2659898!2d15.568848099999999!5e0!3m2!1sen!2spl!4v1739388294092!5m2!1sen!2spl" width="640" height="550" style="border:none;width: inherit;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
   **Pociąg**  
 Podróż z Wrocławia Głównego trwa około 1,5 godziny, a pociągi kursują co 1-2 godziny, więc warto sprawdzić rozkład i nie spóźnić się na swój kurs. Trasa jest wygodna, a przez okno można podziwiać dolnośląskie krajobrazy. Po przyjeździe na stację w Bolesławcu czeka krótki, 11-minutowy spacer do centrum miasta. 😁

@@ -84,7 +84,7 @@ gallery4:
 **Szczawno-Zdrój** to jedno z najstarszych i najbardziej malowniczych uzdrowisk Dolnego Śląska. Położone tuż obok Wałbrzycha, zachwyca nie tylko swoim leczniczym klimatem i wodami mineralnymi, ale także niezwykle bogatą historią i malowniczymi krajobrazami. Spacerując po urokliwych uliczkach tego miasta, można poczuć atmosferę dawnego uzdrowiska, w którym przed laty wypoczywali arystokraci i artyści. Eleganckie budowle poprzeplatane między rozległymi terenami zielonymi, sprawiają, że Szczawno-Zdrój jest prawdziwą oazą spokoju.
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1epVVng5VLJ3kOT7bQwwuzRzaPHydiqA&ehbc=2E312F"  width="640" height="550" style="width: -webkit-fill-available;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1epVVng5VLJ3kOT7bQwwuzRzaPHydiqA&ehbc=2E312F"  width="640" height="550" style="width: inherit;"></iframe>
 
 Park Zdrojowy
 ---

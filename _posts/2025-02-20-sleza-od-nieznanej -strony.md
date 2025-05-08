@@ -64,7 +64,7 @@ gallery6:
 
 Głodni kolejnej przygody? Ruszajcie z nami w kolejną wycieczkę po Dolnym Śląsku! Tym razem poznacie nietuzinkową trasę na jedną z najbardziej znanych gór dolnośląskich - **Ślężę**.
 
-<iframe style="border:none;width: -webkit-fill-available;" src="https://pl.frame.mapy.cz/s/junareroge" width="950" height="500" frameborder="0"></iframe>
+<iframe style="border:none;width: inherit;" src="https://pl.frame.mapy.cz/s/junareroge" width="950" height="500" frameborder="0"></iframe>
 
 
 Przełęcz pod Wieżycą

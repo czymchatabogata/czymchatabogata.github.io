@@ -119,7 +119,7 @@ gallery8:
 
 Przejdźcie z nami ścieżką po **Miliczu**, który szczególnie zasłynął z produkcji szklanych ozdób oraz skąd pochodzi sławny **karp milicki**!
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1vIOvg2P8HeYU2_jFvZfzJugptysZsLo&hl=en&ehbc=2E312F" width="640" height="550" style="width: -webkit-fill-available;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1vIOvg2P8HeYU2_jFvZfzJugptysZsLo&hl=en&ehbc=2E312F" width="640" height="550" style="width: inherit;"></iframe>
 
 Muzeum Bombki
 ---
@@ -175,7 +175,7 @@ Ostatnim naszym punktem w samym Miliczu będzie **parafia rzymskokatolicka św. 
 Ruda Sułowska - Stawy Milickie i Dom Rybaka
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1X6UJK3SYkKii70sWNlgbYqmzhZyzIVQ&hl=en&ehbc=2E312F" width="640" height="550" style="width: -webkit-fill-available;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1X6UJK3SYkKii70sWNlgbYqmzhZyzIVQ&hl=en&ehbc=2E312F" width="640" height="550" style="width: inherit;"></iframe>
 
 {% include gallery id="gallery8" %}
 
