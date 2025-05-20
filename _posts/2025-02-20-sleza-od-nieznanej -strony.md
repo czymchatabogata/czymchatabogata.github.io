@@ -9,7 +9,8 @@ tags:
   - Dolny Śląsk
 excerpt: Głodni kolejnej przygody? Ruszajcie z nami w kolejną wycieczkę po Dolnym Śląsku! Tym razem poznacie nietuzinkową trasę na jedną z najbardziej znanych gór dolnośląskich - Ślężę.
 header:
-  teaser: assets/images/2025-02-20/Sleza-06.jpeg
+  teaser: assets/images/2025-02-20/Sleza-12.jpeg
+  og_image: assets/images/2025-02-20/Sleza-12.jpeg
 gallery1:
   - url: assets/images/2025-02-20/Sleza-01.jpeg
     image_path: assets/images/2025-02-20/Sleza-01.jpeg

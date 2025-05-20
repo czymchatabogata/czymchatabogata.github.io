@@ -9,7 +9,8 @@ tags:
   - Bolesławiec
 excerpt: Zabierzemy was w podróż po Bolesławcu.
 header:
-  teaser: assets/images/2025-02-11/Boleslawiec-16.jpeg
+  teaser: assets/images/2025-02-11/Boleslawiec-40.jpeg
+  og_image: assets/images/2025-02-11/Boleslawiec-40.jpeg
 gallery1:
   - url: assets/images/2025-02-11/Boleslawiec-01.jpeg
     image_path: assets/images/2025-02-11/Boleslawiec-01.jpeg

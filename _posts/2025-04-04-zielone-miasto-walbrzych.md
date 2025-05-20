@@ -10,7 +10,8 @@ tags:
   - Zamek Książ
 excerpt: Tajemniczy Zamek Książ, fascynujące podziemia i górnicza historia Wałbrzycha – jeden dzień, niezapomniane wrażenia! Dołącz do nas!
 header:
-  teaser: assets/images/2025-03-04/Walbrzych-02.jpeg
+  teaser: assets/images/2025-03-04/Walbrzych-20.jpeg
+  og_image: assets/images/2025-03-04/Walbrzych-20.jpeg
 gallery1:
   - url: assets/images/2025-03-04/Walbrzych-01.jpeg
     image_path: assets/images/2025-03-04/Walbrzych-01.jpeg

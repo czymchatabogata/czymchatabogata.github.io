@@ -13,8 +13,8 @@ tags:
   - Muzeum Bombki
 excerpt: Milicz – kraina stawów, natury i niezwykłych smaków. Odkryj z nami to magiczne miejsce!
 header:
-  teaser: assets/images/2025-03-10/Milicz-13.jpeg
-  og_image: assets/images/2025-03-10/Milicz-13.jpeg
+  teaser: assets/images/2025-03-10/Milicz-18.jpeg
+  og_image: assets/images/2025-03-10/Milicz-18.jpeg
 gallery1:
   - url: assets/images/2025-03-10/Milicz-01.jpeg
     image_path: assets/images/2025-03-10/Milicz-01.jpeg

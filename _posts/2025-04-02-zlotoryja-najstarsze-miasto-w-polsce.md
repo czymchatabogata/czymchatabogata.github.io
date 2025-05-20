@@ -9,8 +9,8 @@ tags:
   - Dolny Śląsk
 excerpt: Złotoryja to miasto, które trzeba zobaczyć! Spacerując po urokliwej starówce, poczujesz klimat średniowiecza, a widok z Baszty Kowalskiej zachwyci każdego. Wisienką na torcie jest wizyta w dawnym kamieniołomie – surowe skały, niezwykłe formacje i historia zapisane w kamieniu czekają na odkrycie. Gotowi na przygodę?
 header:
-  teaser: assets/images/2025-04-02/Zlotoryja-00.jpeg
-  og_image: assets/images/2025-04-02/Zlotoryja-00.jpeg
+  teaser: assets/images/2025-04-02/Zlotoryja-37.jpeg
+  og_image: assets/images/2025-04-02/Zlotoryja-37.jpeg
 gallery0:
   - url: assets/images/2025-04-02/Zlotoryja-00.jpeg
     image_path: assets/images/2025-04-02/Zlotoryja-00.jpeg
