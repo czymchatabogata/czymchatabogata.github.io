@@ -60,7 +60,7 @@ Okej, przyznajemy – tym razem to nie była zwykła „spacerowa” trasa. Ale 
 
 <iframe style="border:none;width: inherit;" src="https://mapy.com/s/bupabepafu" width="950" height="500" frameborder="0"></iframe>
 
-Nasza wycieczka zaczęła się w **Puchaczówce**, skąd ruszyliśmy na **Czarną Górę**. Nie było to gładkie podejście, ale widoki? **PETARDA**. Dla mniej zapalonych podróżników istnieje opcja podjechania na Czarna Górę wyciągiem - **Luxtorpeda**. Jest to jednak sezonowa kolejka i nie zawsze jest otwarta. 
+Nasza wycieczka zaczęła się na przełęczy **Puchaczówka**, skąd ruszyliśmy na **Czarną Górę**. Nie było to gładkie podejście, ale widoki? **PETARDA**. Dla mniej zapalonych podróżników istnieje opcja podjechania na Czarna Górę wyciągiem - **Luxtorpeda**. Jest to jednak sezonowa kolejka i nie zawsze jest otwarta. 
 
 {% include gallery id="gallery1" layout="half" %}
 
