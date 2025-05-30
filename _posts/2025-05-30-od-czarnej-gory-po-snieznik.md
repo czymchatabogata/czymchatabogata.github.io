@@ -58,6 +58,8 @@ gallery5:
 
 Okej, przyznajemy – tym razem to nie była zwykła „spacerowa” trasa. Ale jak już ruszać w góry, to z przytupem… i zakwasami! 
 
+<iframe style="border:none;width: inherit;" src="https://mapy.com/s/bupabepafu" width="400" height="280" frameborder="0"></iframe>
+
 Nasza wycieczka zaczęła się w **Puchaczówce**, skąd ruszyliśmy na **Czarną Górę**. Nie było to gładkie podejście, ale widoki? **PETARDA**. Dla mniej zapalonych podróżników istnieje opcja podjechania na Czarna Górę wyciągiem - **Luxtorpeda**. Jest to jednak sezonowa kolejka i nie zawsze jest otwarta. 
 
 {% include gallery id="gallery1" layout="half" %}
