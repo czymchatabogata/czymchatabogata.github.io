@@ -67,18 +67,6 @@ html {
     color: #03859c;
 }
 
-/*.page .page__inner-wrap a {
-    color: #0097b2;
-}
-
-.page .page__inner-wrap a:visited {
-    color: #03859c;
-}
-
-.page .page__inner-wrap a:hover {
-    color: #03859c;
-}*/
-
 .pagination a {
     color: #0097b2;
 }
@@ -111,3 +99,14 @@ html {
     color: #03859c
 }
 
+.greedy-nav__toggle:hover .navicon,.greedy-nav__toggle:hover .navicon:before,.greedy-nav__toggle:hover .navicon:after {
+    background: #03859c
+}
+
+.navicon {
+    background: #0097b2;
+}
+
+.navicon::before,.navicon::after {
+    background: #0097b2;
+}
