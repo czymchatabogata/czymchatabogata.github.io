@@ -44,10 +44,15 @@ html {
 
 .page__footer {
     background-color: #0079b2;
+    color: #d9d9d9;
 }
 
 .greedy-nav {
     background: #efe0d1;
+}
+
+.greedy-nav .visible-links a:before {
+    background: #0097b2;
 }
 
 .archive a {
