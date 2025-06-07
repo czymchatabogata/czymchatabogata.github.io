@@ -67,7 +67,7 @@ html {
     color: #03859c;
 }
 
-.page .page__inner-wrap a {
+/*.page .page__inner-wrap a {
     color: #0097b2;
 }
 
@@ -77,8 +77,17 @@ html {
 
 .page .page__inner-wrap a:hover {
     color: #03859c;
-}
+}*/
 
-.search__toggle {
+.pagination a {
     color: #0097b2;
 }
+
+.pagination a:visited {
+    color: #03859c;
+}
+
+.pagination a:hover {
+    color: #03859c;
+}
+
