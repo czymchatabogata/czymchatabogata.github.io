@@ -39,24 +39,10 @@ search: false
 }
 
 html {
-    box-sizing: border-box;
     background-color: #efe0d1;
-    font-size: 16px;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
 }
 
 .page__footer {
-    clear: both;
-    float: inline-start;
-    margin-inline: 0;
-    width: 100%;
-    margin-top: 3em;
-    color: #d9d9d9;
-    -webkit-animation: intro 0.3s both;
-    animation: intro 0.3s both;
-    -webkit-animation-delay: 0.45s;
-    animation-delay: 0.45s;
     background-color: #0079b2;
 }
 
