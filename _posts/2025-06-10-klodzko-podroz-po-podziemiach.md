@@ -9,123 +9,123 @@ tags:
   - Dolny Śląsk
 excerpt: Malownicze miasteczko z klimatem – z gotyckim mostem jak z Pragi, imponującą twierdzą i podziemnymi labiryntami. Idealne na szybką wycieczkę z nutą historii i przygody!
 header:
-  teaser: assets/images/2025-06-10/Kłodzko-00.jpg
-  og_image: assets/images/2025-06-10/Kłodzko-00.jpg
+  teaser: assets/images/2025-06-10/Kłodzko-00.JPG
+  og_image: assets/images/2025-06-10/Kłodzko-00.JPG
 gallery0:
-  - url: assets/images/2025-06-10/Kłodzko-00.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-00.jpg
+  - url: assets/images/2025-06-10/Kłodzko-00.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-00.JPG
     alt: "Kłodzko"
     title: "Kłodzko"
 gallery1:
-  - url: assets/images/2025-06-10/Kłodzko-01.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-01.jpg
+  - url: assets/images/2025-06-10/Kłodzko-01.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-01.JPG
     alt: "Kłodzko - most"
     title: "Kłodzko - most"
 gallery2:
-  - url: assets/images/2025-06-10/Kłodzko-04.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-04.jpg
+  - url: assets/images/2025-06-10/Kłodzko-04.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-04.JPG
     alt: "Kłodzko - rynek"
     title: "Kłodzko - rynek"
-  - url: assets/images/2025-06-10/Kłodzko-06.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-06.jpg
+  - url: assets/images/2025-06-10/Kłodzko-06.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-06.JPG
     alt: "Kolumna NMP"
     title: "Kolumna NMP"
 gallery3:
-  - url: assets/images/2025-06-10/Kłodzko-02.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-02.jpg
+  - url: assets/images/2025-06-10/Kłodzko-02.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-02.JPG
     alt: "Ratusz"
     title: "Ratusz"
-  - url: assets/images/2025-06-10/Kłodzko-05.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-05.jpg
+  - url: assets/images/2025-06-10/Kłodzko-05.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-05.JPG
     alt: "Ratusz"
     title: "Ratusz"
-  - url: assets/images/2025-06-10/Kłodzko-07.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-07.jpg
+  - url: assets/images/2025-06-10/Kłodzko-07.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-07.JPG
     alt: "Ratusz"
     title: "Ratusz"
-  - url: assets/images/2025-06-10/Kłodzko-09.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-09.jpg
+  - url: assets/images/2025-06-10/Kłodzko-09.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-09.JPG
     alt: "Ratusz"
     title: "Ratusz"    
 gallery4:
-  - url: assets/images/2025-06-10/Kłodzko-11.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-11.jpg
+  - url: assets/images/2025-06-10/Kłodzko-11.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-11.JPG
     alt: "Twierdza Kłodzko"
     title: "Twierdza Kłodzko"
-  - url: assets/images/2025-06-10/Kłodzko-13.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-13.jpg
+  - url: assets/images/2025-06-10/Kłodzko-13.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-13.JPG
     alt: "Twierdza Kłodzko"
     title: "Twierdza Kłodzko"
-  - url: assets/images/2025-06-10/Kłodzko-14.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-14.jpg
+  - url: assets/images/2025-06-10/Kłodzko-14.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-14.JPG
     alt: "Twierdza Kłodzko"
     title: "Twierdza Kłodzko"
-  - url: assets/images/2025-06-10/Kłodzko-08.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-08.jpg
+  - url: assets/images/2025-06-10/Kłodzko-08.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-08.JPG
     alt: "Twierdza Kłodzko - panorama miasta"
     title: "Twierdza Kłodzko - panorama miasta"
-  - url: assets/images/2025-06-10/Kłodzko-16.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-16.jpg
+  - url: assets/images/2025-06-10/Kłodzko-16.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-16.JPG
     alt: "Twierdza Kłodzko - trasa podziemna"
     title: "Twierdza Kłodzko - trasa podziemna"    
-  - url: assets/images/2025-06-10/Kłodzko-17.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-17.jpg
+  - url: assets/images/2025-06-10/Kłodzko-17.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-17.JPG
     alt: "Twierdza Kłodzko - trasa podziemna"
     title: "Twierdza Kłodzko - trasa podziemna"       
 gallery5:
-  - url: assets/images/2025-06-10/Kłodzko-10.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-10.jpg
+  - url: assets/images/2025-06-10/Kłodzko-10.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-10.JPG
     alt: "Kolegiata Wniebowzięcia NMP"
     title: "Kolegiata Wniebowzięcia NMP"
-  - url: assets/images/2025-06-10/Kłodzko-18.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-18.jpg
+  - url: assets/images/2025-06-10/Kłodzko-18.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-18.JPG
     alt: "Kolegiata Wniebowzięcia NMP"
     title: "Kolegiata Wniebowzięcia NMP"
-  - url: assets/images/2025-06-10/Kłodzko-03.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-03.jpg
+  - url: assets/images/2025-06-10/Kłodzko-03.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-03.JPG
     alt: "Czarna Brama"
     title: "Czarna Brama"    
 gallery6:
-  - url: assets/images/2025-06-10/Kłodzko-19.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-19.jpg
+  - url: assets/images/2025-06-10/Kłodzko-19.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-19.JPG
     alt: "Muzeum Ziemi Kłodzkiej"
     title: "Muzeum Ziemi Kłodzkiej"
-  - url: assets/images/2025-06-10/Kłodzko-20.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-20.jpg
+  - url: assets/images/2025-06-10/Kłodzko-20.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-20.JPG
     alt: "Muzeum Ziemi Kłodzkiej"
     title: "Muzeum Ziemi Kłodzkiej"
-  - url: assets/images/2025-06-10/Kłodzko-21.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-21.jpg
+  - url: assets/images/2025-06-10/Kłodzko-21.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-21.JPG
     alt: "Muzeum Ziemi Kłodzkiej"
     title: "Muzeum Ziemi Kłodzkiej"
-  - url: assets/images/2025-06-10/Kłodzko-23.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-23.jpg
+  - url: assets/images/2025-06-10/Kłodzko-23.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-23.JPG
     alt: "Muzeum Ziemi Kłodzkiej"
     title: "Muzeum Ziemi Kłodzkiej"    
 gallery7:
-  - url: assets/images/2025-06-10/Kłodzko-24.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-24.jpg
+  - url: assets/images/2025-06-10/Kłodzko-24.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-24.JPG
     alt: "Kłodzko - Todziemna Trasa Turystyczna"
     title: "Kłodzko - Todziemna Trasa Turystyczna"
-  - url: assets/images/2025-06-10/Kłodzko-25.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-25.jpg
+  - url: assets/images/2025-06-10/Kłodzko-25.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-25.JPG
     alt: "Kłodzko - Todziemna Trasa Turystyczna"
     title: "Kłodzko - Todziemna Trasa Turystyczna"
-  - url: assets/images/2025-06-10/Kłodzko-26.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-26.jpg
+  - url: assets/images/2025-06-10/Kłodzko-26.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-26.JPG
     alt: "Kłodzko - Todziemna Trasa Turystyczna"
     title: "Kłodzko - Todziemna Trasa Turystyczna"    
 gallery8:
-  - url: assets/images/2025-06-10/Kłodzko-27.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-27.jpg
+  - url: assets/images/2025-06-10/Kłodzko-27.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-27.JPG
     alt: "Klasztor Franciszkanów"
     title: "Klasztor Franciszkanów"
-  - url: assets/images/2025-06-10/Kłodzko-29.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-29.jpg
+  - url: assets/images/2025-06-10/Kłodzko-29.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-29.JPG
     alt: "Klasztor Franciszkanów"
     title: "Klasztor Franciszkanów"
-  - url: assets/images/2025-06-10/Kłodzko-30.jpg
-    image_path: assets/images/2025-06-10/Kłodzko-30.jpg
+  - url: assets/images/2025-06-10/Kłodzko-30.JPG
+    image_path: assets/images/2025-06-10/Kłodzko-30.JPG
     alt: "Klasztor Franciszkanów"
     title: "Klasztor Franciszkanów"    
 ---
