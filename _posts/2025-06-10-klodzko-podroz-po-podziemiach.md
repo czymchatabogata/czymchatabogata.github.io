@@ -132,9 +132,9 @@ gallery8:
 
 Tym razem wybraliśmy się do Kłodzka - miasta w pełni położonego nad rzeką, nad którym góruje imponująca twierdza. Podczas wycieczki gwarantowany jest brud, strome podejścia, ale to wszystko w imię świetnej zabawy!
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1knxVqMwrVCB8m4Gk1itgnu0cP92Tp6g&ehbc=2E312F" width="640" height="550" style="width: inherit;"></iframe>
-
 {% include gallery id="gallery0" layout="" %}
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1knxVqMwrVCB8m4Gk1itgnu0cP92Tp6g&ehbc=2E312F" width="640" height="550" style="width: inherit;"></iframe>
 
 Most gotycki na Młynówce
 ---
