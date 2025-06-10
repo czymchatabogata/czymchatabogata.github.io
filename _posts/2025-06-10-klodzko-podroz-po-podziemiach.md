@@ -94,8 +94,8 @@ gallery6:
     image_path: assets/images/2025-06-10/Kłodzko-20.JPG
     alt: "Muzeum Ziemi Kłodzkiej"
     title: "Muzeum Ziemi Kłodzkiej"
-  - url: assets/images/2025-06-10/Kłodzko-21.JPG
-    image_path: assets/images/2025-06-10/Kłodzko-21.JPG
+  - url: assets/images/2025-06-10/Kłodzko-21.jpg
+    image_path: assets/images/2025-06-10/Kłodzko-21.jpg
     alt: "Muzeum Ziemi Kłodzkiej"
     title: "Muzeum Ziemi Kłodzkiej"
   - url: assets/images/2025-06-10/Kłodzko-23.JPG
