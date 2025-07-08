@@ -9,11 +9,11 @@ tags:
   - Dolny Śląsk
 excerpt: Malownicze miasteczko z klimatem – z gotyckim mostem jak z Pragi, imponującą twierdzą i podziemnymi labiryntami. Idealne na szybką wycieczkę z nutą historii i przygody!
 header:
-  teaser: assets/images/2025-06-10/Kłodzko-00.JPG
-  og_image: assets/images/2025-06-10/Kłodzko-00.JPG
+  teaser: assets/images/2025-06-10/Kłodzko-00.jpg
+  og_image: assets/images/2025-06-10/Kłodzko-00.jpg
 gallery0:
-  - url: assets/images/2025-06-10/Kłodzko-00.JPG
-    image_path: assets/images/2025-06-10/Kłodzko-00.JPG
+  - url: assets/images/2025-06-10/Kłodzko-00.jpg
+    image_path: assets/images/2025-06-10/Kłodzko-00.jpg
     alt: "Kłodzko"
     title: "Kłodzko"
 gallery1:

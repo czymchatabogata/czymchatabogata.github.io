@@ -1,6 +1,7 @@
 ---
 title: "Odkryj tajemnice Wrocławia!"
 date: 2025-01-16T10:34:30-02:00
+text_author: Aleksandra Sobkowiak
 categories:
   - wycieczki
 tags:
