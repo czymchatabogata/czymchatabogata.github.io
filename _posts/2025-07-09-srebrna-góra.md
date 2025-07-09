@@ -138,7 +138,8 @@ Oprócz zwiedzania wnętrz, na koniec warto przejść wokół całego kompleksu 
 
 Po wyjściu z Twierdzy Srebrna Góra, na krańcu Góry Warownej, znajduje się **Fort Wysoka Skała**. Jest to obiekt wybudowany w podobnych latach co jego siostrzana twierdza, lecz nie jest zawsze udostępniony do zwiedzania. Można natomiast do niego podejść, a także pooglądać widoki.
 
-Wejście jest płatne:
+**Wejście jest płatne:**
+
 [https://forty.pl/](https://forty.pl/){:target="_blank"}
 
 Fort Spitzberg - Ostróg
@@ -148,7 +149,8 @@ Fort Spitzberg - Ostróg
 
 Po zwiedzeniu Warownej Góry, idziemy tą samą drogą w stronę **Twierdzy Sptizberg - Ostróg**. Musimy jeszcze raz się trochę wspiąć aż dotrzemy do **fortu**. Stamtąd rozpoczniemy zwiedzanie wnętrz z przewodnikiem. Twierdza została zbudowana także w XVIII wieku, a w XX wieku stanowiła **więzienie**. To o jego historii szczególnie dowiemy się podczas zwiedzania. Po przejściu z przewodnikiem, można wejść na samą górę do czego zachęcamy. Stamtąd zobaczymy widok z drugiej strony na Twierdzę Srebrna Góra.
 
-Wejście jest płatne:
+**Wejście jest płatne:**
+
 [http://spitzberg.pl/](http://spitzberg.pl/){:target="_blank"}
  
 Rynek
