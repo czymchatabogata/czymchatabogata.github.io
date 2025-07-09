@@ -66,8 +66,8 @@ gallery2:
     image_path: assets/images/2025-07-09/SG-14.JPG
     alt: "Srebrna Góra - Fort Spitzberg"
     title: "Srebrna Góra - Fort Spitzberg"  
-  - url: assets/images/2025-07-09/SG-15.JPG
-    image_path: assets/images/2025-07-09/SG-15.JPG
+  - url: assets/images/2025-07-09/SG-15.jpg
+    image_path: assets/images/2025-07-09/SG-15.jpg
     alt: "Srebrna Góra - Fort Spitzberg"
     title: "Srebrna Góra - Fort Spitzberg"  
   - url: assets/images/2025-07-09/SG-16.JPG
