@@ -133,12 +133,12 @@ gallery6:
     image_path: assets/images/2025-08-24/Polanica-22.JPG
     alt: "Polanica Zdrój - Góry Stołowe"
     title: "Polanica Zdrój - Góry Stołowe" 
-  - url: assets/images/2025-08-24/Polanica-31.JPG
-    image_path: assets/images/2025-08-24/Polanica-31.JPG
+  - url: assets/images/2025-08-24/Polanica-31.jpg
+    image_path: assets/images/2025-08-24/Polanica-31.jpg
     alt: "Polanica Zdrój - Góry Stołowe"
     title: "Polanica Zdrój - Góry Stołowe" 
-  - url: assets/images/2025-08-24/Polanica-32.JPG
-    image_path: assets/images/2025-08-24/Polanica-32.JPG
+  - url: assets/images/2025-08-24/Polanica-32.jpg
+    image_path: assets/images/2025-08-24/Polanica-32.jpg
     alt: "Polanica Zdrój"
     title: "Polanica Zdrój"     
 gallery7:
