@@ -122,8 +122,8 @@ gallery6:
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2015_Szczeliniec_Wielki_02.JPG/500px-2015_Szczeliniec_Wielki_02.JPG
     alt: "Szczeliniec Wielki"
     title: "Szczeliniec Wielki" 
-  - url: https://pl.wikipedia.org/wiki/Plik:Szczeliniec_wielki.JPG
-    image_path: https://pl.wikipedia.org/wiki/Plik:Szczeliniec_wielki.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Szczeliniec_wielki.JPG/330px-Szczeliniec_wielki.JPG
+    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Szczeliniec_wielki.JPG/330px-Szczeliniec_wielki.JPG
     alt: "Szczeliniec Wielki"
     title: "Szczeliniec Wielki"    
 gallery7:
