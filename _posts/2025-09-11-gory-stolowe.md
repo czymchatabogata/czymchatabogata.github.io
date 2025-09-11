@@ -118,8 +118,8 @@ gallery5:
     alt: "Pasterka"
     title: "Pasterka"     
 gallery6:
-  - url: https://pl.wikipedia.org/wiki/Plik:2015_Szczeliniec_Wielki_02.JPG
-    image_path: https://pl.wikipedia.org/wiki/Plik:2015_Szczeliniec_Wielki_02.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2015_Szczeliniec_Wielki_02.JPG/500px-2015_Szczeliniec_Wielki_02.JPG
+    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2015_Szczeliniec_Wielki_02.JPG/500px-2015_Szczeliniec_Wielki_02.JPG
     alt: "Szczeliniec Wielki"
     title: "Szczeliniec Wielki" 
   - url: https://pl.wikipedia.org/wiki/Plik:Szczeliniec_wielki.JPG
