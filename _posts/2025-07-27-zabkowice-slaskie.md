@@ -158,7 +158,8 @@ Krzywa Wieża
 Jednak najbardziej rozpoznawalnym budynkiem w Ząbkowicach Śląskich będzie druga w Europie **Krzywa Wieża**. Bardzo wyróżnia się na tle zabudowy miasta i wywołuje ogromne wrażenie. Powstała ona w **XIV wieku**, prawdopodobnie jako część murów miejskich lub zamku. Zakłada się, że jej przekrzywienie jest wynikiem osunięcia się gruntów lub trzęsień ziemi. Jednakże przyjmuje się też teorię, że była ona celowo tak zbudowana, aby zachęcić ludzi do odwiedzania miasta. Na szczyt wieży można wejść. Po drodze na kondygnacjach znajdują się wystawy dotyczące historii miasta. Z góry rozchodzi się urokliwa **panorama na całe Ząbkowice**.
 
 **Wejście jest płatne.**
-[http://www.zckit.pl/zwiedzanie/](http://www.zckit.pl/zwiedzanie/){:target="_blank"}
+
+[**kup bilet**](http://www.zckit.pl/zwiedzanie/){:target="_blank"}
 
 Kościół św. Anny
 ---
@@ -175,7 +176,8 @@ Izba Pamiątek Regionalnych i Laboratorium Frankensteina
 Później przejdziemy na **Dwór Rycerza Kauffunga**, na którym mieści się parę ciekawych zabytków i atrakcji. Przechadzając się ulicami natkniemy się na budynek **sierocińca Józefa Scholza** czy ruiny **kościoła ewangelickiego**. Zdecydowanie nadaje to wspaniały klimat. Warto też odwiedzić **Izbę Pamiątek Regionalnych** razem z **Laboratorium Frankensteina**. Znajdują się tam bardzo interesujące wystawy. W Izbie znajdziemy wiele różnych przedmiotów pochodzących z gospodarstw na terenie Dolnego Śląska takie jak meble, zdjęcia czy stroje ludowe. Natomiast w Laboratorium umieszczona jest ekspozycja poświęcona znanemu **dr Frankensteinowi**, stylizowana na pracownie naukowca.
 
 **Wejście jest płatne.**
-[http://www.zckit.pl/zwiedzanie/](http://www.zckit.pl/zwiedzanie/){:target="_blank"}
+
+[**kup bilet**](http://www.zckit.pl/zwiedzanie/){:target="_blank"}
 
 Zamek
 ---
@@ -185,7 +187,8 @@ Zamek
 Nie można przegapić imponujących **ruin zamku** na samym południu miasta. Został on zbudowany na przełomie **XIII i XIV wieku**. W środku znajdziemy wystawy dotyczące historii budowli (która była dość bogata) czy średniowiecznego uzbrojenia. Same **mury** już robią wrażenie, ponieważ jest to mocna konstrukcja, po której widać zamysł na twierdzę obronną. Do zwiedzania zostały udostępnione ciekawe miejsca, od spaceru po murach aż po podziemia. Wokół zamku znajduje się też **park**, w którym można wypocząć.
 
 **Wejście jest płatne.**
-[http://www.zckit.pl/zwiedzanie/](http://www.zckit.pl/zwiedzanie/){:target="_blank"}
+
+[**kup bilet**](http://www.zckit.pl/zwiedzanie/){:target="_blank"}
 
 Cerkiew pw. Św. Jerzego
 ---
@@ -195,7 +198,8 @@ Cerkiew pw. Św. Jerzego
 Ostatnim punktem naszej wycieczki będzie **Cerkiew pw. Św. Jerzego**. Jest to zdecydowanie interesujące miejsce do odwiedzenia. Warto zapoznać się z kulturą prawosławną oraz wystrojem ich świątyń. Sam budynek był dawniej **katolicką kaplicą szpitalną** powstałą w XIV wieku. Podczas remontu odkryto w świątyni XVI wieczny **fresk** przedstawiający św. Jerzego i ustawiono nowy ikonostas.
 
 **Wejście jest płatne oraz należy je wcześniej rezerwować.**
-[http://www.zckit.pl/zwiedzanie/](http://www.zckit.pl/zwiedzanie/){:target="_blank"}
+
+[**kup bilet**](http://www.zckit.pl/zwiedzanie/){:target="_blank"}
  
 Tym samym kończy się nasza wycieczka. Ząbkowice Śląskie to miasto pełne różnorodności. Jego cały klimat utrzymany jest w średniowieczu i nie brakuje w nim ciekawych budynków.
 

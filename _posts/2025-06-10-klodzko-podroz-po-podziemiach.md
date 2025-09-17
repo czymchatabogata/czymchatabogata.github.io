@@ -164,9 +164,7 @@ Twierdza Kłodzko
 
 Zdecydowanie najbardziej rozpoznawalnym punktem w Kłodzku, gdzie udamy się z rynku, jest **twierdza** usytuowana na **Górze Fortecznej** nad miastem. Pierwsze wzmianki o zabudowie w tym miejscu pochodzą już z X wieku, lecz obecna konstrukcja została rozbudowana między XVI a XVIII wiekiem. Odegrała ważną rolę podczas **wojen napoleońskich** czy **śląskich**. Cały kompleks składa się z wielu pomieszczeń, w których znajdują się wystawy o historii i życiu w twierdzy. Oprócz tego warto zwiedzić udostępnione dla turystów **chodniki kontrminerskie**, gdzie można m.in. przejść fragment podziemnej trasy o wysokości niecałego metra! Należy jednak wziąć pod uwagę temperaturę panującą w korytarzach oraz możliwość ubrudzenia się. Podczas zwiedzania zobaczymy też **panoramę miasta i pobliskich gór**.
 
-**Wejście jest płatne.**
-
-[https://www.twierdza.klodzko.pl/](https://www.twierdza.klodzko.pl/){:target="_blank"}
+[**kup bilet**](https://www.twierdza.klodzko.pl/){:target="_blank"}
 
 Kolegiata Wniebowzięcia Najświętszej Maryi Panny
 ---
@@ -182,9 +180,7 @@ Muzeum Ziemi Kłodzkiej
 
 Obok kolegiaty znajduje się budynek **dawnego konwiktu jezuickiego**, gdzie ma miejsce **Muzeum Ziemi Kłodzkiej**. Możemy tam zwiedzić średniowieczne korytarze, gdzie dowiemy się o życiu mieszkańców Kłodzka, ale też przeczytać o wieloletniej historii tego miasta – od zapisków w czeskich księgach do współczesności. Przechodząc po piętrach trafimy też na **wystawę o szkle** czy na **barokowy salon** oraz **salę koncertową**. Na najwyższej kondygnacji znajdziemy jednak nietypowy, ale interesujący **zbiór różnych typów zegarów** popularnych na śląsku między XIX a XX wiekiem. Oprócz tego możemy też oczywiście trafić na wystawy czasowe.
 
-**Wejście jest płatne.**
-
-[https://www.muzeum.klodzko.pl/n/](https://www.muzeum.klodzko.pl/n/){:target="_blank"}
+[**kup bilet**](https://www.muzeum.klodzko.pl/n/){:target="_blank"}
  
 Podziemna Trasa Turystyczna
 ---
@@ -193,9 +189,7 @@ Podziemna Trasa Turystyczna
 
 Pod miastem znajdują się **podziemne tunele**, do których wejścia skierujemy się po zwiedzeniu muzeum. Są one efektem powiększania piwnic przez mieszczan już od XIII wieku. Znajdowały się tam magazyny dóbr, ale ostatecznie pełniły też dla mieszkańców funkcję schronu, rzemiosła czy handlu. Aktualnie możemy przejść trasę **700 metrów pod ziemią**, gdzie po kolei dowiemy się o historii miasta, życiu mieszkańców, a nawet o dawnych metodach tortur.
 
-**Wejście jest płatne.**
-
-[https://www.podziemia.klodzko.pl/](https://www.podziemia.klodzko.pl/){:target="_blank"}
+[**kup bilet**](https://www.podziemia.klodzko.pl/){:target="_blank"}
  
 Klasztor franciszkanów
 ---

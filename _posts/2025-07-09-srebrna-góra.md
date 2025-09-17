@@ -140,7 +140,7 @@ Po wyjściu z Twierdzy Srebrna Góra, na krańcu Góry Warownej, znajduje się *
 
 **Wejście jest płatne:**
 
-[https://forty.pl/](https://forty.pl/){:target="_blank"}
+[**kup bilet**](https://forty.pl/){:target="_blank"}
 
 Fort Spitzberg - Ostróg
 ---
@@ -151,7 +151,7 @@ Po zwiedzeniu Warownej Góry, idziemy tą samą drogą w stronę **Twierdzy Spti
 
 **Wejście jest płatne:**
 
-[http://spitzberg.pl/](http://spitzberg.pl/){:target="_blank"}
+[**kup bilet**](http://spitzberg.pl/){:target="_blank"}
  
 Rynek
 ---
