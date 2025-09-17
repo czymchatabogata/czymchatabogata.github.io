@@ -222,7 +222,7 @@ Schronisko PTTK “Pasterka”
 
 Naszą długą wędrówkę zakończymy w **Pasterce**, czyli schronisku położonym zaraz pod najwyższym szczytem Gór Stołowych - **Szczelińcem Wielkim**. Budynek pochodzi z 1926 roku, a w środku dostępne są miejsca noclegowe (pościel dodatkowo płatna!), kuchnia turystyczna czy prysznice. Funkcjonuje tam też stołówka, ale w określonych godzinach. Jest to świetna baza wypadowa do dalszych wycieczkach po Górach Stołowych z wspaniałym widokiem na **Szczeliniec** i **pobliskie łąki**.
 
-[https://schroniskopasterka.pl/](https://schroniskopasterka.pl/)
+[**strona Pasterki**](https://schroniskopasterka.pl/)
  
 
 Dzień 2:
@@ -236,7 +236,7 @@ Szczeliniec Wielki
 
 Następnego dnia zwiedzimy najbardziej rozpoznawalne miejsca w Górach Stołowych. My nie wybraliśmy się na **Szczeliniec**, ale z Pasterki jest on bardzo blisko, a jest jednak najwyższym i najbardziej zróżnicowanym szczytem pasma. Na samą górę prowadzi **kilkaset schodów**, a po drodze możemy zatrzymać się na **punktach widokowych** czy w **schronisku PTTK “Na Szczelińcu”**. Warto też zajrzeć do **labiryntu skalnego**, do którego wejście jest akurat limitowane i płatne. Jest on pełen ciasnych przejść, ale też interesujących form skalnych.
 
-[https://pngs.gov.pl/kup-bilet](https://pngs.gov.pl/kup-bilet)
+[**kup bilet**](https://pngs.gov.pl/kup-bilet)
 
 Błędne Skały
 ---
